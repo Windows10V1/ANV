@@ -1,0 +1,62 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 8,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "speaker-halo left"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "speaker-halo right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/speaker-halo",
+	"position": [
+		0,
+		160
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

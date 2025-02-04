@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="madison-speaker.png">
+<SubTexture name="madison-speaker right0000" x="70" y="107" width="70" height="102" frameX="-34" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="madison-speaker right0001" x="140" y="0" width="70" height="106" frameX="-34" frameY="-8" frameWidth="150" frameHeight="150" />
+<SubTexture name="madison-speaker right0002" x="0" y="0" width="70" height="107" frameX="-34" frameY="-7" frameWidth="150" frameHeight="150" />
+<SubTexture name="madison-speaker right0003" x="140" y="107" width="70" height="90" frameX="-34" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="madison-speaker left0000" x="0" y="107" width="70" height="103" frameX="-34" frameY="-11" frameWidth="150" frameHeight="150" />
+<SubTexture name="madison-speaker left0001" x="210" y="0" width="70" height="106" frameX="-34" frameY="-8" frameWidth="150" frameHeight="150" />
+<SubTexture name="madison-speaker left0002" x="70" y="0" width="70" height="107" frameX="-34" frameY="-7" frameWidth="150" frameHeight="150" />
+<SubTexture name="madison-speaker left0003" x="210" y="107" width="70" height="90" frameX="-34" frameY="-24" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

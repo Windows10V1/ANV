@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-400
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "halo aaron idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-400
+			],
+			"anim": "singLEFTmiss",
+			"fps": 8,
+			"name": "halo aaron missleft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-400
+			],
+			"anim": "singLEFT",
+			"fps": 8,
+			"name": "halo aaron left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-400
+			],
+			"anim": "singUPmiss",
+			"fps": 8,
+			"name": "halo aaron missup",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-400
+			],
+			"anim": "singUP",
+			"fps": 8,
+			"name": "halo aaron up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-400
+			],
+			"anim": "singRIGHT",
+			"fps": 8,
+			"name": "halo aaron right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-400
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 8,
+			"name": "halo aaron missright",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-400
+			],
+			"anim": "singDOWN",
+			"fps": 8,
+			"name": "halo aaron down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-400
+			],
+			"anim": "singDOWNmiss",
+			"fps": 8,
+			"name": "halo aaron missdown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/halo aaron",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "comicaaron",
+	"flip_x": true,
+	"healthbar_colors": [
+		66,
+		66,
+		66
+	],
+	"camera_position": [
+		200,
+		300
+	],
+	"sing_duration": 4,
+	"scale": 3.50000000000001
+}

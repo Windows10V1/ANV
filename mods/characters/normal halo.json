@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 9,
+			"name": "normal halo idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-15,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 9,
+			"name": "normal halo down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				-3
+			],
+			"anim": "singUP",
+			"fps": 9,
+			"name": "normal halo up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 9,
+			"name": "normal halo left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-22,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 9,
+			"name": "normal halo right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/normal halo",
+	"position": [
+		50,
+		70
+	],
+	"healthicon": "Halo",
+	"flip_x": true,
+	"healthbar_colors": [
+		102,
+		96,
+		145
+	],
+	"camera_position": [
+		-30,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sky gray.png">
+<SubTexture name="sky gray idle0000" x="0" y="0" width="3000" height="1720" frameX="0" frameY="0" frameWidth="3000" frameHeight="1720" />
+<SubTexture name="sky gray idle0001" x="3000" y="0" width="3000" height="1720" frameX="0" frameY="0" frameWidth="3000" frameHeight="1720" />
+<SubTexture name="sky gray idle0002" x="0" y="1720" width="3000" height="1720" frameX="0" frameY="0" frameWidth="3000" frameHeight="1720" />
+<SubTexture name="sky gray idle0003" x="3000" y="1720" width="3000" height="1720" frameX="0" frameY="0" frameWidth="3000" frameHeight="1720" />
+</TextureAtlas>

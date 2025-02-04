@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="anthony_dialogue.png">
+<SubTexture name="anthony_dialogue talk0000" x="0" y="0" width="75" height="73" frameX="-37" frameY="-36" frameWidth="150" frameHeight="150" />
+<SubTexture name="anthony_dialogue talk0001" x="75" y="0" width="72" height="73" frameX="-38" frameY="-36" frameWidth="150" frameHeight="150" />
+<SubTexture name="anthony_dialogue talk0002" x="0" y="73" width="71" height="73" frameX="-39" frameY="-36" frameWidth="150" frameHeight="150" />
+<SubTexture name="anthony_dialogue talk0003" x="71" y="73" width="75" height="73" frameX="-37" frameY="-36" frameWidth="150" frameHeight="150" />
+<SubTexture name="anthony_dialogue talk0004" x="147" y="0" width="72" height="73" frameX="-38" frameY="-36" frameWidth="150" frameHeight="150" />
+<SubTexture name="anthony_dialogue talk0005" x="147" y="73" width="71" height="73" frameX="-39" frameY="-36" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

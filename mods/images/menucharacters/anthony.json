@@ -1,0 +1,11 @@
+{
+	"idle_anim": "menu_anthony idle",
+	"confirm_anim": "menu_anthony idle",
+	"position": [
+		-6,
+		-118
+	],
+	"scale": 3.99999999999999,
+	"flipX": false,
+	"image": "menu_anthony"
+}

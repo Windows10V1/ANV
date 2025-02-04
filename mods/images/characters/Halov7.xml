@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Halov7.png">
+<SubTexture name="Halov7 idle0000" x="3392" y="1166" width="348" height="580" frameX="-371" frameY="-236" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 idle0001" x="3392" y="1746" width="345" height="574" frameX="-375" frameY="-243" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 idle0002" x="0" y="2861" width="346" height="574" frameX="-375" frameY="-243" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 idle0003" x="3392" y="585" width="351" height="581" frameX="-368" frameY="-235" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 idle0004" x="2954" y="1182" width="354" height="589" frameX="-365" frameY="-227" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 idle0005" x="444" y="2260" width="358" height="598" frameX="-361" frameY="-218" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 idle0006" x="2587" y="1634" width="359" height="599" frameX="-360" frameY="-217" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 left0000" x="1756" y="1634" width="397" height="605" frameX="-322" frameY="-209" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 left0001" x="2153" y="1634" width="434" height="603" frameX="-320" frameY="-211" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 left0002" x="802" y="2260" width="414" height="596" frameX="-323" frameY="-218" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 left0003" x="1216" y="2260" width="375" height="594" frameX="-331" frameY="-220" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 left0004" x="1591" y="2260" width="361" height="594" frameX="-337" frameY="-220" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 left0005" x="1952" y="2260" width="357" height="594" frameX="-342" frameY="-220" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 right0000" x="346" y="2861" width="438" height="567" frameX="-351" frameY="-240" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 right0001" x="0" y="2260" width="444" height="601" frameX="-350" frameY="-206" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 right0002" x="2309" y="2260" width="442" height="594" frameX="-351" frameY="-213" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 right0003" x="2954" y="0" width="438" height="592" frameX="-353" frameY="-215" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 right0004" x="2954" y="592" width="435" height="590" frameX="-353" frameY="-217" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 right0005" x="3392" y="0" width="438" height="585" frameX="-350" frameY="-222" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 right0006" x="2954" y="1771" width="436" height="586" frameX="-352" frameY="-221" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 up0000" x="0" y="1634" width="370" height="626" frameX="-351" frameY="-192" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 up0001" x="1502" y="819" width="471" height="636" frameX="-247" frameY="-188" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 up0002" x="370" y="1634" width="504" height="620" frameX="-218" frameY="-199" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 up0003" x="874" y="1634" width="455" height="611" frameX="-269" frameY="-208" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 up0004" x="1329" y="1634" width="427" height="609" frameX="-298" frameY="-210" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 up0005" x="0" y="0" width="726" height="819" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 up0006" x="726" y="0" width="726" height="819" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 down0000" x="784" y="2861" width="430" height="555" frameX="-321" frameY="-260" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 down0001" x="1452" y="0" width="751" height="817" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 down0002" x="1214" y="2861" width="430" height="550" frameX="-321" frameY="-265" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 down0003" x="0" y="819" width="751" height="815" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 down0004" x="751" y="819" width="751" height="815" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 down0005" x="2203" y="0" width="751" height="815" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Halov7 down0006" x="2203" y="815" width="751" height="815" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

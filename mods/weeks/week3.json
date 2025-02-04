@@ -1,0 +1,41 @@
+{
+	"storyName": "gabriel week",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "overworld",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"pvp",
+			"graybriel",
+			[
+				133,
+				133,
+				133
+			]
+		],
+		[
+			"hyped",
+			"graybriel",
+			[
+				133,
+				133,
+				133
+			]
+		]
+	],
+	"weekCharacters": [
+		"gabriel",
+		"aaron",
+		"madison-speaker"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

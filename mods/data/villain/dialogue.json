@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "anth",
+			"speed": 0.05,
+			"portrait": "anthony",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmph, not bad for a brat like you..."
+		},
+		{
+			"sound": "aar",
+			"speed": 0.05,
+			"portrait": "comicaaron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yippee I won! :D"
+		},
+		{
+			"sound": "anth",
+			"speed": 0.05,
+			"portrait": "anthony",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You may have won a battle, but not a war."
+		},
+		{
+			"sound": "anth",
+			"speed": 0.05,
+			"portrait": "anthony",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If you think I'm going to go out on one song, you are sadly mistaken."
+		},
+		{
+			"sound": "aar",
+			"speed": 0.05,
+			"portrait": "comicaaron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bruh, another song? I mean I'll just beat you again."
+		},
+		{
+			"sound": "anth",
+			"speed": 0.05,
+			"portrait": "anthony",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, I have one more trick up my sleeve..."
+		},
+		{
+			"sound": "aar",
+			"speed": 0.05,
+			"portrait": "comicaaron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why not two?"
+		},
+		{
+			"sound": "anth",
+			"speed": 0.05,
+			"portrait": "anthony",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Please, shut up."
+		}
+	]
+}

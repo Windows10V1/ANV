@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "menu_speaker-halo dance beat pose",
+	"idle_anim": "menu_speaker-halo dance beat pose",
+	"position": [
+		100,
+		100
+	],
+	"scale": 0.8,
+	"image": "menu_speaker-halo",
+	"flipX": false
+}

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="normal halo.png">
+<SubTexture name="normal halo talk0000" x="0" y="0" width="281" height="433" frameX="-231" frameY="-168" frameWidth="700" frameHeight="700" />
+<SubTexture name="normal halo talk0001" x="281" y="0" width="281" height="431" frameX="-231" frameY="-170" frameWidth="700" frameHeight="700" />
+<SubTexture name="normal halo talk0002" x="562" y="0" width="281" height="431" frameX="-231" frameY="-170" frameWidth="700" frameHeight="700" />
+<SubTexture name="normal halo talk0003" x="843" y="0" width="281" height="431" frameX="-231" frameY="-170" frameWidth="700" frameHeight="700" />
+<SubTexture name="normal halo talk0004" x="0" y="433" width="281" height="431" frameX="-231" frameY="-170" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

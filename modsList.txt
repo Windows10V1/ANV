@@ -1,0 +1,3 @@
+junk-or-gamefiles|1
+Scripts FNF|1
+stage example|1

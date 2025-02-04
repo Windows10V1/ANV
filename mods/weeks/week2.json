@@ -1,0 +1,50 @@
+{
+	"storyName": "halo's totally safe and fun week",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "sun",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Haloing Around",
+			"Halo",
+			[
+				108,
+				88,
+				148
+			]
+		],
+		[
+			"doppel ganger",
+			"angryhalo",
+			[
+				100,
+				80,
+				120
+			]
+		],
+		[
+			"rivalry",
+			"dark halo",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"halo",
+		"aaron",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week2"
+}

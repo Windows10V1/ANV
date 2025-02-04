@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "aar",
+			"speed": 0.05,
+			"portrait": "comicaaron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*sigh* What a lovely day to take a stroll through this beautiful forest!"
+		},
+		{
+			"sound": "aar",
+			"speed": 0.05,
+			"portrait": "comicaaron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Surely nothing could possibly ruin this moment!"
+		},
+		{
+			"sound": "aar",
+			"speed": 0.05,
+			"portrait": "comicaaron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "aar",
+			"speed": 0.05,
+			"portrait": "comicaaron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What? did you think something woul-"
+		},
+		{
+			"sound": "anth",
+			"speed": 0.05,
+			"portrait": "anthony",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU!"
+		},
+		{
+			"sound": "aar",
+			"speed": 0.05,
+			"portrait": "comicaaron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who, me?"
+		},
+		{
+			"sound": "anth",
+			"speed": 0.05,
+			"portrait": "anthony",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No, the tree that's behind you."
+		},
+		{
+			"sound": "aar",
+			"speed": 0.05,
+			"portrait": "comicaaron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh my bad, yo tree! Anthony wants to tal-"
+		},
+		{
+			"sound": "anth",
+			"speed": 0.05,
+			"portrait": "anthony",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I WAS BEING SARCASTIC YOU IDIOT!!!"
+		},
+		{
+			"sound": "anth",
+			"speed": 0.05,
+			"portrait": "anthony",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now, back to what I was saying..."
+		},
+		{
+			"sound": "anth",
+			"speed": 0.05,
+			"portrait": "anthony",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I finally found you! Now, surrender yourself to me or there will be consequences!"
+		},
+		{
+			"sound": "aar",
+			"speed": 0.05,
+			"portrait": "comicaaron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nah."
+		},
+		{
+			"sound": "anth",
+			"speed": 0.05,
+			"portrait": "anthony",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Have it your way then..."
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "dev battle",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "void",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"coder",
+			"win",
+			[
+				17,
+				170,
+				79
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

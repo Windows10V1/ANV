@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dark aaron.png">
+<SubTexture name="dark aaron idle0000" x="0" y="0" width="49" height="156" frameX="-78" frameY="-11" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron idle0001" x="49" y="0" width="49" height="156" frameX="-78" frameY="-12" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron idle0002" x="49" y="0" width="49" height="156" frameX="-78" frameY="-13" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron idle0003" x="0" y="0" width="49" height="156" frameX="-78" frameY="-13" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron idle0004" x="0" y="0" width="49" height="156" frameX="-78" frameY="-12" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron left0000" x="0" y="156" width="74" height="150" frameX="-88" frameY="-20" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron left0001" x="74" y="156" width="72" height="150" frameX="-85" frameY="-20" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron up0000" x="98" y="0" width="68" height="156" frameX="-72" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron up0001" x="166" y="0" width="69" height="156" frameX="-71" frameY="-6" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron right0000" x="0" y="306" width="117" height="138" frameX="-9" frameY="-26" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron right0001" x="117" y="306" width="116" height="138" frameX="-14" frameY="-26" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron down0000" x="372" y="150" width="53" height="149" frameX="-79" frameY="-36" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron down0001" x="146" y="156" width="53" height="150" frameX="-79" frameY="-33" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron missleft0000" x="199" y="156" width="74" height="150" frameX="-88" frameY="-20" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron missleft0001" x="273" y="156" width="72" height="150" frameX="-85" frameY="-20" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron missup0000" x="235" y="0" width="68" height="156" frameX="-72" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron missup0001" x="303" y="0" width="69" height="156" frameX="-71" frameY="-6" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron missright0000" x="233" y="306" width="117" height="138" frameX="-9" frameY="-26" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron missright0001" x="350" y="306" width="116" height="138" frameX="-14" frameY="-26" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron missdown0000" x="425" y="0" width="53" height="149" frameX="-79" frameY="-36" frameWidth="200" frameHeight="200" />
+<SubTexture name="dark aaron missdown0001" x="372" y="0" width="53" height="150" frameX="-79" frameY="-33" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

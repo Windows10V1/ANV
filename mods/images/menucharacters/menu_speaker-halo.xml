@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_speaker-halo.png">
+<SubTexture name="menu_speaker-halo dance beat pose0000" x="341" y="473" width="331" height="278" frameX="-176" frameY="-186" frameWidth="700" frameHeight="700" />
+<SubTexture name="menu_speaker-halo dance beat pose0001" x="0" y="0" width="507" height="473" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="menu_speaker-halo dance beat pose0002" x="507" y="0" width="334" height="286" frameX="-173" frameY="-187" frameWidth="700" frameHeight="700" />
+<SubTexture name="menu_speaker-halo dance beat pose0003" x="0" y="473" width="341" height="279" frameX="-166" frameY="-185" frameWidth="700" frameHeight="700" />
+<SubTexture name="menu_speaker-halo dance beat pose0004" x="841" y="278" width="331" height="277" frameX="-176" frameY="-184" frameWidth="700" frameHeight="700" />
+<SubTexture name="menu_speaker-halo dance beat pose0005" x="331" y="752" width="330" height="273" frameX="-177" frameY="-188" frameWidth="700" frameHeight="700" />
+<SubTexture name="menu_speaker-halo dance beat pose0006" x="0" y="752" width="331" height="277" frameX="-176" frameY="-187" frameWidth="700" frameHeight="700" />
+<SubTexture name="menu_speaker-halo dance beat pose0007" x="841" y="0" width="331" height="278" frameX="-176" frameY="-186" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "idle",
+			"indices": [],
+			"name": "dark halo idle"
+		},
+		{
+			"offsets": [
+				52,
+				9
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dark halo left"
+		},
+		{
+			"offsets": [
+				-66,
+				18
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dark halo right"
+		},
+		{
+			"offsets": [
+				-10,
+				-22
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dark halo down"
+		},
+		{
+			"offsets": [
+				14,
+				71
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dark halo up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dark halo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dark halo",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

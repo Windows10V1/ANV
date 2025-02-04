@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="speaker-halo.png">
+<SubTexture name="speaker-halo left0000" x="0" y="568" width="331" height="278" frameX="-176" frameY="-186" frameWidth="700" frameHeight="700" />
+<SubTexture name="speaker-halo left0001" x="334" y="0" width="333" height="284" frameX="-174" frameY="-189" frameWidth="700" frameHeight="700" />
+<SubTexture name="speaker-halo left0002" x="0" y="0" width="334" height="286" frameX="-173" frameY="-187" frameWidth="700" frameHeight="700" />
+<SubTexture name="speaker-halo left0003" x="667" y="0" width="341" height="279" frameX="-166" frameY="-185" frameWidth="700" frameHeight="700" />
+<SubTexture name="speaker-halo right0000" x="331" y="286" width="331" height="281" frameX="-176" frameY="-180" frameWidth="700" frameHeight="700" />
+<SubTexture name="speaker-halo right0001" x="331" y="568" width="330" height="273" frameX="-177" frameY="-188" frameWidth="700" frameHeight="700" />
+<SubTexture name="speaker-halo right0002" x="667" y="279" width="331" height="279" frameX="-176" frameY="-185" frameWidth="700" frameHeight="700" />
+<SubTexture name="speaker-halo right0003" x="0" y="286" width="331" height="282" frameX="-176" frameY="-182" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

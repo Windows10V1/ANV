@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singLEFTmiss",
+			"loop": true,
+			"name": "mleft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singUPmiss",
+			"loop": true,
+			"name": "mup"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singUP",
+			"loop": true,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singRIGHTmiss",
+			"loop": true,
+			"name": "mright"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singDOWNmiss",
+			"loop": true,
+			"name": "mdown"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/streamyardaaron",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "comicaaron",
+	"flip_x": true,
+	"healthbar_colors": [
+		66,
+		66,
+		66
+	],
+	"camera_position": [
+		-320,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

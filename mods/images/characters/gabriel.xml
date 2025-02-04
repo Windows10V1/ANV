@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gabriel.png">
+<SubTexture name="gabriel idle0000" x="173" y="291" width="91" height="125" frameX="-47" frameY="-29" frameWidth="175" frameHeight="175" />
+<SubTexture name="gabriel idle0001" x="0" y="291" width="89" height="126" frameX="-47" frameY="-28" frameWidth="175" frameHeight="175" />
+<SubTexture name="gabriel idle0002" x="382" y="0" width="83" height="127" frameX="-47" frameY="-27" frameWidth="175" frameHeight="175" />
+<SubTexture name="gabriel idle0003" x="89" y="291" width="84" height="126" frameX="-47" frameY="-28" frameWidth="175" frameHeight="175" />
+<SubTexture name="gabriel right0000" x="264" y="291" width="117" height="122" frameX="-51" frameY="-32" frameWidth="175" frameHeight="175" />
+<SubTexture name="gabriel right0001" x="465" y="0" width="123" height="122" frameX="-45" frameY="-32" frameWidth="175" frameHeight="175" />
+<SubTexture name="gabriel right0002" x="465" y="122" width="116" height="122" frameX="-49" frameY="-32" frameWidth="175" frameHeight="175" />
+<SubTexture name="gabriel up0000" x="0" y="0" width="81" height="146" frameX="-44" frameY="-8" frameWidth="175" frameHeight="175" />
+<SubTexture name="gabriel up0001" x="81" y="0" width="81" height="145" frameX="-44" frameY="-9" frameWidth="175" frameHeight="175" />
+<SubTexture name="gabriel up0002" x="301" y="0" width="81" height="143" frameX="-44" frameY="-11" frameWidth="175" frameHeight="175" />
+<SubTexture name="gabriel left0000" x="162" y="0" width="139" height="145" frameX="0" frameY="-9" frameWidth="175" frameHeight="175" />
+<SubTexture name="gabriel left0001" x="0" y="146" width="139" height="145" frameX="-1" frameY="-9" frameWidth="175" frameHeight="175" />
+<SubTexture name="gabriel left0002" x="139" y="146" width="139" height="145" frameX="-4" frameY="-9" frameWidth="175" frameHeight="175" />
+<SubTexture name="gabriel down0000" x="106" y="417" width="107" height="110" frameX="-30" frameY="-44" frameWidth="175" frameHeight="175" />
+<SubTexture name="gabriel down0001" x="0" y="417" width="106" height="114" frameX="-31" frameY="-40" frameWidth="175" frameHeight="175" />
+<SubTexture name="gabriel down0002" x="465" y="244" width="106" height="115" frameX="-31" frameY="-39" frameWidth="175" frameHeight="175" />
+</TextureAtlas>

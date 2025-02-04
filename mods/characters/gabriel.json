@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-380
+			],
+			"anim": "idle",
+			"fps": 9,
+			"name": "gabriel idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-380
+			],
+			"anim": "singLEFT",
+			"fps": 9,
+			"name": "gabriel left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-380
+			],
+			"anim": "singRIGHT",
+			"fps": 9,
+			"name": "gabriel right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-380
+			],
+			"anim": "singDOWN",
+			"fps": 9,
+			"name": "gabriel down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-380
+			],
+			"anim": "singUP",
+			"fps": 9,
+			"name": "gabriel up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gabriel",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "graybriel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-50,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 3.5
+}

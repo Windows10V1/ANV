@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mad Halo v2.png">
+<SubTexture name="Mad Halo v2 idle0000" x="934" y="3067" width="380" height="596" frameX="-334" frameY="-251" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 idle0001" x="3266" y="2439" width="380" height="599" frameX="-334" frameY="-248" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 idle0002" x="1996" y="847" width="713" height="843" frameX="-1" frameY="-4" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 idle0003" x="1996" y="0" width="714" height="847" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 idle0004" x="3266" y="1834" width="378" height="605" frameX="-336" frameY="-242" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 idle0005" x="3266" y="1225" width="378" height="609" frameX="-336" frameY="-238" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 idle0006" x="3266" y="613" width="378" height="612" frameX="-336" frameY="-235" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 idle0007" x="2550" y="2440" width="378" height="613" frameX="-336" frameY="-234" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 down0000" x="1319" y="861" width="666" height="860" frameX="-12" frameY="-13" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 down0001" x="0" y="0" width="668" height="861" frameX="-11" frameY="-13" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 down0002" x="668" y="0" width="666" height="861" frameX="-12" frameY="-13" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 down0003" x="1334" y="0" width="662" height="861" frameX="-13" frameY="-13" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 down0004" x="0" y="861" width="662" height="861" frameX="-13" frameY="-13" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 down0005" x="662" y="861" width="657" height="861" frameX="-15" frameY="-13" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 right0000" x="466" y="3067" width="468" height="608" frameX="-304" frameY="-252" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 right0001" x="0" y="3067" width="466" height="612" frameX="-304" frameY="-248" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 right0002" x="3266" y="0" width="461" height="613" frameX="-306" frameY="-247" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 right0003" x="2090" y="2440" width="460" height="614" frameX="-307" frameY="-246" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 right0004" x="1632" y="2440" width="458" height="618" frameX="-307" frameY="-242" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 up0000" x="1699" y="1722" width="427" height="702" frameX="-241" frameY="-192" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 up0001" x="421" y="1722" width="424" height="715" frameX="-241" frameY="-179" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 up0002" x="0" y="1722" width="421" height="718" frameX="-241" frameY="-176" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 up0003" x="845" y="1722" width="424" height="713" frameX="-241" frameY="-181" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 up0004" x="1269" y="1722" width="430" height="706" frameX="-242" frameY="-187" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 up0005" x="2126" y="1722" width="433" height="698" frameX="-240" frameY="-195" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 left0000" x="2710" y="0" width="556" height="628" frameX="-166" frameY="-221" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 left0001" x="532" y="2440" width="549" height="626" frameX="-166" frameY="-223" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 left0002" x="2710" y="628" width="549" height="627" frameX="-168" frameY="-222" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 left0003" x="1081" y="2440" width="551" height="624" frameX="-171" frameY="-225" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 left0004" x="2710" y="1255" width="549" height="627" frameX="-173" frameY="-222" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Mad Halo v2 left0005" x="0" y="2440" width="532" height="627" frameX="-191" frameY="-222" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

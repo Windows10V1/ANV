@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				90
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "windy2 idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				31,
+				64
+			],
+			"anim": "singLEFT",
+			"fps": 8,
+			"name": "windy2 left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-38,
+				104
+			],
+			"anim": "singRIGHT",
+			"fps": 8,
+			"name": "windy2 right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				50
+			],
+			"anim": "singDOWN",
+			"fps": 8,
+			"name": "windy2 down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				121
+			],
+			"anim": "singUP",
+			"fps": 8,
+			"name": "windy2 up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/windy2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "win",
+	"flip_x": false,
+	"healthbar_colors": [
+		76,
+		175,
+		80
+	],
+	"camera_position": [
+		-160,
+		-270
+	],
+	"sing_duration": 4,
+	"scale": 3.7
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="logoBumpin.png">
+<SubTexture name="logo bumpin0000" x="591" y="288" width="589" height="285" frameX="-16" frameY="-105" frameWidth="640" frameHeight="480" />
+<SubTexture name="logo bumpin0001" x="0" y="0" width="599" height="288" frameX="-11" frameY="-97" frameWidth="640" frameHeight="480" />
+<SubTexture name="logo bumpin0002" x="599" y="0" width="601" height="288" frameX="-10" frameY="-97" frameWidth="640" frameHeight="480" />
+<SubTexture name="logo bumpin0003" x="0" y="288" width="591" height="287" frameX="-15" frameY="-102" frameWidth="640" frameHeight="480" />
+</TextureAtlas>

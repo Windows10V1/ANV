@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="halo.png">
+<SubTexture name="halo talk0000" x="0" y="0" width="417" height="435" frameX="-232" frameY="-166" frameWidth="700" frameHeight="700" />
+<SubTexture name="halo talk0001" x="417" y="0" width="419" height="434" frameX="-231" frameY="-167" frameWidth="700" frameHeight="700" />
+<SubTexture name="halo talk0002" x="836" y="0" width="421" height="432" frameX="-231" frameY="-169" frameWidth="700" frameHeight="700" />
+<SubTexture name="halo talk0003" x="0" y="435" width="420" height="432" frameX="-231" frameY="-169" frameWidth="700" frameHeight="700" />
+<SubTexture name="halo talk0004" x="420" y="435" width="421" height="431" frameX="-231" frameY="-170" frameWidth="700" frameHeight="700" />
+<SubTexture name="halo talk0005" x="1257" y="0" width="422" height="431" frameX="-230" frameY="-170" frameWidth="700" frameHeight="700" />
+<SubTexture name="halo talk0006" x="1257" y="431" width="421" height="430" frameX="-230" frameY="-171" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

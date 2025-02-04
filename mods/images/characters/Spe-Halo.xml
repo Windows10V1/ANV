@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Spe-Halo.png">
+<SubTexture name="Spe-Halo idle0000" x="1491" y="0" width="506" height="579" frameX="-29" frameY="-59" frameWidth="700" frameHeight="700" />
+<SubTexture name="Spe-Halo idle0001" x="0" y="588" width="501" height="583" frameX="-31" frameY="-55" frameWidth="700" frameHeight="700" />
+<SubTexture name="Spe-Halo idle0002" x="501" y="588" width="499" height="582" frameX="-33" frameY="-56" frameWidth="700" frameHeight="700" />
+<SubTexture name="Spe-Halo idle0003" x="994" y="0" width="497" height="585" frameX="-34" frameY="-53" frameWidth="700" frameHeight="700" />
+<SubTexture name="Spe-Halo idle0004" x="497" y="0" width="497" height="586" frameX="-34" frameY="-52" frameWidth="700" frameHeight="700" />
+<SubTexture name="Spe-Halo idle0005" x="0" y="0" width="497" height="588" frameX="-34" frameY="-50" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

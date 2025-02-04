@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				-380
+			],
+			"anim": "idle",
+			"fps": 9,
+			"name": "comicnew idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-19,
+				-380
+			],
+			"anim": "singLEFTmiss",
+			"fps": 9,
+			"name": "comicnew missleft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-19,
+				-380
+			],
+			"anim": "singLEFT",
+			"fps": 9,
+			"name": "comicnew left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				18,
+				-380
+			],
+			"anim": "singUPmiss",
+			"fps": 9,
+			"name": "comicnew missup",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				18,
+				-380
+			],
+			"anim": "singUP",
+			"fps": 9,
+			"name": "comicnew up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-380
+			],
+			"anim": "singRIGHT",
+			"fps": 9,
+			"name": "comicnew right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-380
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 9,
+			"name": "comicnew missright",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-380
+			],
+			"anim": "singDOWN",
+			"fps": 9,
+			"name": "comicnew down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-380
+			],
+			"anim": "singDOWNmiss",
+			"fps": 9,
+			"name": "comicnew missdown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/comicnew",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "comicaaron",
+	"flip_x": true,
+	"healthbar_colors": [
+		33,
+		33,
+		33
+	],
+	"camera_position": [
+		190,
+		220
+	],
+	"sing_duration": 4,
+	"scale": 3.00000000000001
+}

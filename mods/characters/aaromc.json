@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "AaronMc Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "AaronMc Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "AaronMc Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "AaronMc Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AaronMc Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AaronMc",
+	"position": [
+		250,
+		400
+	],
+	"healthicon": "aaronmc",
+	"flip_x": false,
+	"healthbar_colors": [
+		33,
+		33,
+		33
+	],
+	"camera_position": [
+		-650,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 4.8
+}

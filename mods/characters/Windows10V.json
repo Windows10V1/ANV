@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Windows10V Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Windows10V Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Windows10V Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Windows10V Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Windows10V Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Windows10V",
+	"position": [
+		100,
+		-250
+	],
+	"healthicon": "winwin",
+	"flip_x": false,
+	"healthbar_colors": [
+		41,
+		146,
+		43
+	],
+	"camera_position": [
+		-150,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 4.5
+}

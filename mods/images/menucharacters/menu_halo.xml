@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_halo.png">
+<SubTexture name="menu_halo idle0000" x="543" y="0" width="281" height="433" frameX="-188" frameY="-168" frameWidth="700" frameHeight="700" />
+<SubTexture name="menu_halo idle0001" x="824" y="0" width="281" height="432" frameX="-187" frameY="-169" frameWidth="700" frameHeight="700" />
+<SubTexture name="menu_halo idle0002" x="0" y="0" width="265" height="441" frameX="-203" frameY="-169" frameWidth="700" frameHeight="700" />
+<SubTexture name="menu_halo idle0003" x="265" y="0" width="278" height="437" frameX="-190" frameY="-168" frameWidth="700" frameHeight="700" />
+<SubTexture name="menu_halo idle0004" x="619" y="441" width="281" height="428" frameX="-187" frameY="-173" frameWidth="700" frameHeight="700" />
+<SubTexture name="menu_halo idle0005" x="281" y="441" width="338" height="429" frameX="-130" frameY="-172" frameWidth="700" frameHeight="700" />
+<SubTexture name="menu_halo idle0006" x="0" y="441" width="281" height="432" frameX="-187" frameY="-169" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

@@ -1,0 +1,41 @@
+{
+	"storyName": "anthony week",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "foreground",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"ambition",
+			"bald",
+			[
+				233,
+				193,
+				133
+			]
+		],
+		[
+			"villain",
+			"bald",
+			[
+				233,
+				193,
+				133
+			]
+		]
+	],
+	"weekCharacters": [
+		"anthony",
+		"aaron",
+		"speaker-halo"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Anthony Week"
+}

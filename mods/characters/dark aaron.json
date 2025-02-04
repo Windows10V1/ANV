@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-311,
+				-230
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dark aaron down"
+		},
+		{
+			"offsets": [
+				-280,
+				-310
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dark aaron up"
+		},
+		{
+			"offsets": [
+				-282,
+				-318
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "dark aaron missup"
+		},
+		{
+			"offsets": [
+				-283,
+				-290
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "dark aaron idle"
+		},
+		{
+			"offsets": [
+				-310,
+				-230
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "dark aaron missdown"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-270,
+				-280
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "dark aaron left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-370,
+				-280
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "dark aaron right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-370,
+				-280
+			],
+			"anim": "singLEFTmiss",
+			"fps": 16,
+			"name": "dark aaron missright",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-270,
+				-280
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 16,
+			"name": "dark aaron missleft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dark aaron",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "comicaaron",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-20,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 4.00000000000001
+}

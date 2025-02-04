@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "normalhalo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That was fun!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aarontalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "U look like bambi"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "halo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHAT??? No I don't!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aarontalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "halo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "comicaaron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aarontalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bambi"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "halo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": " AHHHH!!!!"
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-300
+			],
+			"loop": true,
+			"fps": 50,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				-300
+			],
+			"loop": false,
+			"fps": 50,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				-300
+			],
+			"loop": false,
+			"fps": 50,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				-300
+			],
+			"loop": false,
+			"fps": 50,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				-300
+			],
+			"loop": false,
+			"fps": 50,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aaronmc",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "aaronmc",
+	"flip_x": true,
+	"healthbar_colors": [
+		33,
+		33,
+		33
+	],
+	"camera_position": [
+		350,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

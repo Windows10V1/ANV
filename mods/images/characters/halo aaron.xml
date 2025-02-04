@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="halo aaron.png">
+<SubTexture name="halo aaron idle0000" x="0" y="393" width="90" height="122" frameX="-36" frameY="-23" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron idle0001" x="427" y="0" width="85" height="126" frameX="-41" frameY="-19" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron idle0002" x="427" y="126" width="79" height="126" frameX="-43" frameY="-19" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron idle0003" x="176" y="134" width="73" height="129" frameX="-45" frameY="-16" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron idle0004" x="103" y="134" width="73" height="130" frameX="-45" frameY="-15" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron right0000" x="293" y="0" width="65" height="129" frameX="-50" frameY="-16" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron right0001" x="293" y="129" width="64" height="129" frameX="-49" frameY="-16" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron up0000" x="0" y="0" width="95" height="134" frameX="-39" frameY="-11" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron up0001" x="190" y="0" width="103" height="132" frameX="-36" frameY="-13" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron left0000" x="0" y="266" width="88" height="127" frameX="-19" frameY="-18" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron left0001" x="88" y="266" width="89" height="127" frameX="-23" frameY="-18" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron down0000" x="512" y="0" width="60" height="124" frameX="-45" frameY="-21" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron down0001" x="427" y="252" width="65" height="126" frameX="-41" frameY="-19" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron missright0000" x="358" y="0" width="69" height="129" frameX="-50" frameY="-16" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron missright0001" x="358" y="129" width="69" height="129" frameX="-49" frameY="-16" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron missup0000" x="95" y="0" width="95" height="134" frameX="-39" frameY="-11" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron missup0001" x="0" y="134" width="103" height="132" frameX="-36" frameY="-13" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron missleft0000" x="177" y="266" width="88" height="127" frameX="-19" frameY="-18" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron missleft0001" x="265" y="266" width="89" height="127" frameX="-23" frameY="-18" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron missdown0000" x="512" y="124" width="60" height="124" frameX="-45" frameY="-21" frameWidth="150" frameHeight="150" />
+<SubTexture name="halo aaron missdown0001" x="354" y="266" width="65" height="126" frameX="-41" frameY="-19" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

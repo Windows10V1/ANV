@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 9,
+			"name": "angry halo idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-8,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 9,
+			"name": "angry halo left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-21,
+				-18
+			],
+			"anim": "singRIGHT",
+			"fps": 9,
+			"name": "angry halo right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 9,
+			"name": "angry halo down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				-2
+			],
+			"anim": "singUP",
+			"fps": 9,
+			"name": "angry halo up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angry halo",
+	"position": [
+		10,
+		90
+	],
+	"healthicon": "angryhalo",
+	"flip_x": true,
+	"healthbar_colors": [
+		102,
+		96,
+		145
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

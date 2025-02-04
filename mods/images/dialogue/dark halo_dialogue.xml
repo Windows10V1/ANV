@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dark halo_dialogue.png">
+<SubTexture name="dark halo_dialogue talk0000" x="529" y="0" width="399" height="494" frameX="-130" frameY="-158" frameWidth="700" frameHeight="700" />
+<SubTexture name="dark halo_dialogue talk0001" x="0" y="0" width="529" height="653" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="dark halo_dialogue talk0002" x="928" y="0" width="399" height="494" frameX="-130" frameY="-160" frameWidth="700" frameHeight="700" />
+<SubTexture name="dark halo_dialogue talk0003" x="0" y="653" width="399" height="494" frameX="-130" frameY="-160" frameWidth="700" frameHeight="700" />
+<SubTexture name="dark halo_dialogue talk0004" x="399" y="653" width="399" height="493" frameX="-130" frameY="-161" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

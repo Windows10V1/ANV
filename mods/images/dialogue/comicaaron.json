@@ -1,0 +1,24 @@
+{
+	"position": [
+		150,
+		120
+	],
+	"dialogue_pos": "right",
+	"scale": 3.54999999999999,
+	"image": "comic aaron_dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "comic aaron_dialogue talk0003",
+			"loop_name": "comic aaron_dialogue talk"
+		}
+	]
+}

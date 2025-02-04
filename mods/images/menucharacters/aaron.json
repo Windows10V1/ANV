@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "menu_aaron idle",
+	"idle_anim": "menu_aaron idle",
+	"position": [
+		-52,
+		-77
+	],
+	"scale": 2.45,
+	"image": "menu_aaron",
+	"flipX": false
+}

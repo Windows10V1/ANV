@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="windy.png">
+<SubTexture name="windy idle0000" x="552" y="0" width="289" height="552" frameX="-205" frameY="-113" frameWidth="700" frameHeight="700" />
+<SubTexture name="windy idle0001" x="1702" y="0" width="314" height="541" frameX="-205" frameY="-124" frameWidth="700" frameHeight="700" />
+<SubTexture name="windy idle0002" x="1156" y="1106" width="306" height="543" frameX="-205" frameY="-122" frameWidth="700" frameHeight="700" />
+<SubTexture name="windy idle0003" x="865" y="1106" width="291" height="546" frameX="-205" frameY="-119" frameWidth="700" frameHeight="700" />
+<SubTexture name="windy idle0004" x="276" y="1106" width="291" height="549" frameX="-205" frameY="-116" frameWidth="700" frameHeight="700" />
+<SubTexture name="windy idle0005" x="1117" y="552" width="290" height="551" frameX="-205" frameY="-114" frameWidth="700" frameHeight="700" />
+<SubTexture name="windy right0000" x="1417" y="0" width="285" height="551" frameX="-205" frameY="-114" frameWidth="700" frameHeight="700" />
+<SubTexture name="windy right0001" x="1417" y="551" width="280" height="551" frameX="-205" frameY="-114" frameWidth="700" frameHeight="700" />
+<SubTexture name="windy right0002" x="0" y="1106" width="276" height="551" frameX="-205" frameY="-114" frameWidth="700" frameHeight="700" />
+<SubTexture name="windy up0000" x="0" y="0" width="276" height="554" frameX="-205" frameY="-110" frameWidth="700" frameHeight="700" />
+<SubTexture name="windy up0001" x="276" y="0" width="276" height="554" frameX="-205" frameY="-110" frameWidth="700" frameHeight="700" />
+<SubTexture name="windy up0002" x="841" y="0" width="276" height="552" frameX="-205" frameY="-112" frameWidth="700" frameHeight="700" />
+<SubTexture name="windy left0000" x="0" y="554" width="300" height="552" frameX="-190" frameY="-112" frameWidth="700" frameHeight="700" />
+<SubTexture name="windy left0001" x="300" y="554" width="332" height="552" frameX="-159" frameY="-112" frameWidth="700" frameHeight="700" />
+<SubTexture name="windy left0002" x="632" y="554" width="307" height="552" frameX="-188" frameY="-112" frameWidth="700" frameHeight="700" />
+<SubTexture name="windy down0000" x="1702" y="541" width="302" height="541" frameX="-205" frameY="-124" frameWidth="700" frameHeight="700" />
+<SubTexture name="windy down0001" x="567" y="1106" width="298" height="548" frameX="-205" frameY="-116" frameWidth="700" frameHeight="700" />
+<SubTexture name="windy down0002" x="1117" y="0" width="300" height="552" frameX="-205" frameY="-112" frameWidth="700" frameHeight="700" />
+</TextureAtlas>
