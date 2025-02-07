@@ -3,7 +3,7 @@ function onCreatePost()
    setTextAlignment("message", "left")
    addLuaText("message")
 
-   makeLuaText("engineText", "Coder (Old) - Windows10V Never Loses... (PE 0.6.3)", 1000, 30, 100)
+   makeLuaText("engineText", "Coder - Windows10V Never Loses. (PE 0.6.3)", 1000, 30, 100)
    setTextAlignment("engineText", "left")
    addLuaText("engineText")
 

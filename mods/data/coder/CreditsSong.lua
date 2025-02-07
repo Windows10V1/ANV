@@ -1,13 +1,13 @@
 CoderA = 'Windows10V' -- PUT CODER'S USER HERE
 ComposerB = 'Comic Aaron' -- PUT COMPOSER'S USER HERE
 ArtistC = 'Comic Aaron' -- PUT ARTIST'S USER HERE
-CharterD = 'Windows10V' -- PUT CHARTER'S USER HERE
+CharterD = 'Comic Aaron' -- PUT CHARTER'S USER HERE
 enabled = true -- for SongScript
 
-changeCreditColor = false -- change color for songz
-mainColor =  '' -- Big Box Color
-secondaryColor = '' -- Lines Color
-SecondaryColor2 = '' -- Text Color 
+changeCreditColor = true -- change color for songz
+mainColor =  'd50000' -- Big Box Color
+secondaryColor = 'd50000' -- Lines Color
+SecondaryColor2 = 'd50000' -- Text Color 
 
 
 

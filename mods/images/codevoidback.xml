@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="codevoidback.png">
+<SubTexture name="codevoidanim0000" x="0" y="0" width="500" height="350" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="codevoidanim0001" x="500" y="0" width="500" height="350" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="codevoidanim0002" x="0" y="350" width="500" height="350" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="codevoidanim0003" x="500" y="350" width="500" height="350" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="codevoidanim0004" x="1000" y="0" width="500" height="350" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="codevoidanim0005" x="1000" y="350" width="500" height="350" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="codevoidanim0006" x="0" y="700" width="500" height="350" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="codevoidanim0007" x="500" y="700" width="500" height="350" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+</TextureAtlas>
