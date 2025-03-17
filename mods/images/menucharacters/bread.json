@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "menu_bread",
+	"idle_anim": "menu_bread",
+	"position": [
+		0,
+		-120
+	],
+	"scale": 2.75,
+	"image": "Menu_Bread",
+	"flipX": false
+}

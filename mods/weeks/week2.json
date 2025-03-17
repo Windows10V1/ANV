@@ -1,50 +1,50 @@
 {
-	"storyName": "halo's totally safe and fun week",
-	"difficulties": "Easy, Normal, Hard",
+	"storyName": "Vs. Halo",
+	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "sun",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"halo",
+		"ca",
+		""
+	],
 	"songs": [
 		[
-			"Haloing Around",
-			"Halo",
+			"Halocore",
+			"haloiconv3",
 			[
-				108,
-				88,
-				148
+				9,
+				128,
+				232
 			]
 		],
 		[
-			"doppel ganger",
-			"angryhalo",
+			"Aesthetic",
+			"haloiconv3",
 			[
-				100,
-				80,
-				120
+				9,
+				128,
+				232
 			]
 		],
 		[
-			"rivalry",
-			"dark halo",
+			"Doppelganger",
+			"Madhalo",
 			[
 				0,
-				0,
-				0
+				84,
+				153
 			]
 		]
 	],
-	"weekCharacters": [
-		"halo",
-		"aaron",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "week2"
+	"hideStoryMode": false,
+	"weekName": "Vs. Halo",
+	"hiddenUntilUnlocked": false
 }

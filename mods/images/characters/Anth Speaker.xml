@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Anth Speaker.png">
+<SubTexture name="Anth Speaker idle0000" x="85" y="122" width="85" height="59" frameX="-47" frameY="-67" frameWidth="200" frameHeight="200" />
+<SubTexture name="Anth Speaker idle0001" x="0" y="122" width="85" height="60" frameX="-46" frameY="-66" frameWidth="200" frameHeight="200" />
+<SubTexture name="Anth Speaker idle0002" x="0" y="0" width="84" height="61" frameX="-47" frameY="-65" frameWidth="200" frameHeight="200" />
+<SubTexture name="Anth Speaker idle0003" x="84" y="0" width="84" height="61" frameX="-47" frameY="-65" frameWidth="200" frameHeight="200" />
+<SubTexture name="Anth Speaker idle0004" x="0" y="61" width="82" height="61" frameX="-49" frameY="-65" frameWidth="200" frameHeight="200" />
+<SubTexture name="Anth Speaker idle0005" x="82" y="61" width="81" height="61" frameX="-50" frameY="-65" frameWidth="200" frameHeight="200" />
+<SubTexture name="Anth Speaker idle0006" x="168" y="0" width="83" height="61" frameX="-48" frameY="-65" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

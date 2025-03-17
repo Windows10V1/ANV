@@ -1,58 +1,58 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 18,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Halov7 left"
+			"fps": 18,
+			"name": "Halov7 left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 18,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Halov7 right"
+			"fps": 18,
+			"name": "Halov7 right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 18,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Halov7 down"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
 			"fps": 18,
+			"name": "Halov7 down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "Halov7 up"
+			"fps": 18,
+			"name": "Halov7 up",
+			"indices": []
 		},
 		{
 			"offsets": [
 				0,
 				0
 			],
-			"loop": true,
+			"indices": [],
 			"fps": 12,
 			"anim": "idle",
-			"indices": [],
+			"loop": false,
 			"name": "Halov7 idle"
 		}
 	],

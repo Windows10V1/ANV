@@ -1,8 +1,8 @@
 {
-	"storyName": "anthony week",
+	"storyName": "Vs. Anthony",
 	"difficulties": "Easy, Normal, Hard",
 	"hideFreeplay": false,
-	"weekBackground": "foreground",
+	"weekBackground": "vsanthony",
 	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
@@ -32,10 +32,10 @@
 		]
 	],
 	"weekCharacters": [
-		"anthony",
-		"aaron",
-		"speaker-halo"
+		"",
+		"",
+		""
 	],
 	"hiddenUntilUnlocked": false,
-	"weekName": "Anthony Week"
+	"weekName": "Vs. Anthony"
 }

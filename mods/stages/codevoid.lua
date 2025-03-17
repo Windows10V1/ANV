@@ -1,6 +1,6 @@
 function onCreate()
 		
-		makeAnimatedLuaSprite('codevoidback', 'codevoidback', -400, -400)
+		makeAnimatedLuaSprite('codevoidback', 'codevoidback', -500, -400)
 		addAnimationByPrefix('codevoidback', 'codevoidback', 'codevoidanim', 24, true)
 		setLuaSpriteScrollFactor('codevoidback', 0.9, 0.9)
                 scaleObject('codevoidback', 5, 5);

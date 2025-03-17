@@ -1,8 +1,8 @@
 {
-	"storyName": "dev battle",
+	"storyName": "Vs. Frosty",
 	"difficulties": "",
 	"hideFreeplay": false,
-	"weekBackground": "void",
+	"weekBackground": "stage",
 	"freeplayColor": [
 		146,
 		113,
@@ -11,22 +11,40 @@
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
 	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
+		"frost",
+		"ca",
+		""
 	],
 	"songs": [
 		[
-			"coder",
-			"win",
+			"Dealer",
+			"frost",
 			[
-				17,
-				170,
-				79
+				66,
+				66,
+				66
+			]
+		],
+		[
+			"Allies",
+			"frost",
+			[
+				66,
+				66,
+				66
+			]
+		],
+		[
+			"Killer",
+			"frost",
+			[
+				66,
+				66,
+				66
 			]
 		]
 	],
-	"hideStoryMode": true,
-	"weekName": "Custom Week",
+	"hideStoryMode": false,
+	"weekName": "Vs. Frosty",
 	"hiddenUntilUnlocked": false
 }

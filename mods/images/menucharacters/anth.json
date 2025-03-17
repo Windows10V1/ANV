@@ -1,0 +1,11 @@
+{
+	"idle_anim": "menu_anth",
+	"image": "Menu_Anth",
+	"position": [
+		0,
+		-90
+	],
+	"flipX": false,
+	"scale": 2.5,
+	"confirm_anim": "menu_anth"
+}

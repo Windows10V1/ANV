@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Frost.png">
+<SubTexture name="menu_frost idle0000" x="0" y="0" width="40" height="120" frameX="-72" frameY="-30" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_frost idle0001" x="40" y="0" width="40" height="120" frameX="-72" frameY="-30" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_frost idle0002" x="80" y="0" width="40" height="120" frameX="-72" frameY="-30" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_frost idle0003" x="120" y="0" width="40" height="120" frameX="-72" frameY="-30" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_frost idle0004" x="160" y="0" width="40" height="120" frameX="-72" frameY="-30" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_frost idle0005" x="200" y="0" width="40" height="120" frameX="-72" frameY="-30" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_frost idle0006" x="0" y="120" width="40" height="120" frameX="-72" frameY="-30" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dialogueaaron.png">
+<SubTexture name="talk0000" x="61" y="0" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="talk0001" x="121" y="0" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="talk0002" x="181" y="0" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="bored0000" x="241" y="0" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="bored0001" x="0" y="143" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="bored0002" x="60" y="143" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="happy0000" x="120" y="143" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="happy0001" x="180" y="143" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="happy0002" x="240" y="143" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="confused0000" x="301" y="0" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="confused0001" x="301" y="142" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="confused0002" x="361" y="0" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="angry0000" x="240" y="285" width="61" height="141" frameX="-67" frameY="-25" frameWidth="200" frameHeight="200" />
+<SubTexture name="angry0001" x="361" y="142" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="angry0002" x="421" y="0" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="gasp0000" x="0" y="0" width="61" height="143" frameX="-67" frameY="-23" frameWidth="200" frameHeight="200" />
+<SubTexture name="gasp0001" x="421" y="142" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="gasp0002" x="0" y="285" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="devious0000" x="60" y="285" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="devious0001" x="120" y="285" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="devious0002" x="180" y="285" width="60" height="142" frameX="-67" frameY="-24" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

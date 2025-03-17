@@ -1,0 +1,11 @@
+{
+	"idle_anim": "menu_ca idle",
+	"image": "Menu_CA",
+	"position": [
+		-50,
+		-100
+	],
+	"flipX": false,
+	"scale": 3,
+	"confirm_anim": "menu_ca HEY"
+}

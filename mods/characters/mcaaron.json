@@ -89,7 +89,7 @@
 			"indices": []
 		},
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
 				0,
 				0
@@ -106,7 +106,7 @@
 		-50,
 		350
 	],
-	"healthicon": "Block",
+	"healthicon": "mineca",
 	"flip_x": true,
 	"healthbar_colors": [
 		46,

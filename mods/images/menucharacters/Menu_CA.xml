@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_CA.png">
+<SubTexture name="menu_ca idle0000" x="118" y="119" width="57" height="115" frameX="-68" frameY="-41" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_ca idle0001" x="59" y="119" width="59" height="116" frameX="-67" frameY="-40" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_ca idle0002" x="0" y="119" width="59" height="117" frameX="-67" frameY="-39" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_ca idle0003" x="62" y="0" width="59" height="118" frameX="-67" frameY="-38" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_ca idle0004" x="62" y="0" width="59" height="118" frameX="-67" frameY="-38" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_ca idle0005" x="62" y="0" width="59" height="118" frameX="-67" frameY="-38" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_ca idle0006" x="62" y="0" width="59" height="118" frameX="-67" frameY="-38" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_ca HEY0000" x="0" y="0" width="62" height="119" frameX="-64" frameY="-37" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_ca HEY0001" x="121" y="0" width="61" height="118" frameX="-65" frameY="-38" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_ca HEY0002" x="182" y="0" width="61" height="118" frameX="-65" frameY="-38" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_ca HEY0003" x="182" y="0" width="61" height="118" frameX="-65" frameY="-38" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

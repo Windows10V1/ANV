@@ -1,68 +1,68 @@
 {
 	"dialogue": [
 		{
+			"expression": "talk",
+			"text": "Hmph, not bad for a brat like you...",
+			"boxState": "normal",
 			"sound": "anth",
 			"speed": 0.05,
-			"portrait": "anthony",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Hmph, not bad for a brat like you..."
+			"portrait": "anthony"
 		},
 		{
+			"expression": "happy",
+			"text": "Yippee I won! :D",
+			"boxState": "normal",
 			"sound": "aar",
 			"speed": 0.05,
-			"portrait": "comicaaron",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Yippee I won! :D"
+			"portrait": "dialogueaaron"
 		},
 		{
+			"expression": "talk",
+			"text": "You may have won a battle, but not a war.",
+			"boxState": "normal",
 			"sound": "anth",
 			"speed": 0.05,
-			"portrait": "anthony",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "You may have won a battle, but not a war."
+			"portrait": "anthony"
 		},
 		{
+			"expression": "talk",
+			"text": "If you think I'm going to go out on one song, you are sadly mistaken.",
+			"boxState": "normal",
 			"sound": "anth",
 			"speed": 0.05,
-			"portrait": "anthony",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "If you think I'm going to go out on one song, you are sadly mistaken."
+			"portrait": "anthony"
 		},
 		{
+			"expression": "bored",
+			"text": "Bruh, another song? I mean I'll just beat you again.",
+			"boxState": "normal",
 			"sound": "aar",
 			"speed": 0.05,
-			"portrait": "comicaaron",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Bruh, another song? I mean I'll just beat you again."
+			"portrait": "dialogueaaron"
 		},
 		{
+			"expression": "talk",
+			"text": "Well, I have one more trick up my sleeve...",
+			"boxState": "normal",
 			"sound": "anth",
 			"speed": 0.05,
-			"portrait": "anthony",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Well, I have one more trick up my sleeve..."
+			"portrait": "anthony"
 		},
 		{
+			"expression": "devious",
+			"text": "Why not two?",
+			"boxState": "normal",
 			"sound": "aar",
 			"speed": 0.05,
-			"portrait": "comicaaron",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Why not two?"
+			"portrait": "dialogueaaron"
 		},
 		{
+			"expression": "talk",
+			"text": "Please, shut up.",
+			"boxState": "normal",
 			"sound": "anth",
 			"speed": 0.05,
-			"portrait": "anthony",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Please, shut up."
+			"portrait": "anthony"
 		}
 	]
 }

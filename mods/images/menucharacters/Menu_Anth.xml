@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Anth.png">
+<SubTexture name="menu_anth0000" x="86" y="126" width="85" height="122" frameX="-63" frameY="-44" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_anth0001" x="0" y="126" width="86" height="123" frameX="-63" frameY="-43" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_anth0002" x="88" y="0" width="88" height="125" frameX="-64" frameY="-41" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_anth0003" x="0" y="0" width="88" height="126" frameX="-64" frameY="-40" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_anth0004" x="176" y="0" width="88" height="125" frameX="-64" frameY="-41" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_anth0005" x="0" y="0" width="88" height="126" frameX="-64" frameY="-40" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_anth0006" x="176" y="0" width="88" height="125" frameX="-64" frameY="-41" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

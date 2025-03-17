@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				250,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mom Left Pose"
+		},
+		{
+			"offsets": [
+				10,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mom Pose Left"
+		},
+		{
+			"offsets": [
+				20,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MOM DOWN POSE"
+		},
+		{
+			"offsets": [
+				14,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mom Up Pose"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Anth Fight idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Anth Fight",
+	"position": [
+		-200,
+		300
+	],
+	"healthicon": "bald",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		172,
+		105
+	],
+	"camera_position": [
+		-100,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 4.9
+}

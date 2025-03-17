@@ -1,14 +1,47 @@
 {
 	"animations": [
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"anim": "singLEFT",
 			"fps": 12,
-			"name": "Anth Idle",
+			"name": "Anth Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Anth Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Anth Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Anth Up",
 			"indices": []
 		},
 		{
@@ -16,44 +49,11 @@
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 12,
-			"anim": "singLEFT",
 			"indices": [],
-			"name": "Anth Left"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
 			"fps": 12,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Anth Right"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
+			"anim": "idle",
 			"loop": false,
-			"fps": 12,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "Anth Down"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 12,
-			"anim": "singUP",
-			"indices": [],
-			"name": "Anth Up"
+			"name": "Anth Idle"
 		}
 	],
 	"no_antialiasing": false,

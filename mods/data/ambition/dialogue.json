@@ -1,108 +1,100 @@
 {
 	"dialogue": [
 		{
-			"sound": "aar",
-			"speed": 0.05,
-			"portrait": "comicaaron",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "*sigh* What a lovely day to take a stroll through this beautiful forest!"
-		},
-		{
-			"sound": "aar",
-			"speed": 0.05,
-			"portrait": "comicaaron",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Surely nothing could possibly ruin this moment!"
-		},
-		{
-			"sound": "aar",
-			"speed": 0.05,
-			"portrait": "comicaaron",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "..."
-		},
-		{
-			"sound": "aar",
-			"speed": 0.05,
-			"portrait": "comicaaron",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "What? did you think something woul-"
-		},
-		{
-			"sound": "anth",
-			"speed": 0.05,
-			"portrait": "anthony",
+			"expression": "angry",
+			"text": "MF WHY DID YOU CRASH INTO ME?!!",
 			"boxState": "angry",
-			"expression": "talk",
-			"text": "YOU!"
-		},
-		{
 			"sound": "aar",
-			"speed": 0.05,
-			"portrait": "comicaaron",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Who, me?"
+			"speed": 0.01,
+			"portrait": "dialogueaaron"
 		},
 		{
+			"expression": "talk",
+			"text": "Worth it.",
+			"boxState": "normal",
+			"sound": "anth",
+			"speed": 0.06,
+			"portrait": "anthony"
+		},
+		{
+			"expression": "angry",
+			"text": "Nah you gonna pay now...",
+			"boxState": "normal",
+			"sound": "aar",
+			"speed": 0.08,
+			"portrait": "dialogueaaron"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh really? Ooo I'm so scar-",
+			"boxState": "normal",
 			"sound": "anth",
 			"speed": 0.05,
-			"portrait": "anthony",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "No, the tree that's behind you."
+			"portrait": "anthony"
 		},
 		{
-			"sound": "aar",
-			"speed": 0.05,
-			"portrait": "comicaaron",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "Oh my bad, yo tree! Anthony wants to tal-"
+			"text": "Yeet.",
+			"boxState": "normal",
+			"sound": "halonoise",
+			"speed": 0.00500000000000001,
+			"portrait": "normalhalo"
 		},
 		{
-			"sound": "anth",
-			"speed": 0.05,
-			"portrait": "anthony",
+			"expression": "talk",
+			"text": "OW!! WAS THAT A MICROPHONE?!!",
 			"boxState": "angry",
-			"expression": "talk",
-			"text": "I WAS BEING SARCASTIC YOU IDIOT!!!"
-		},
-		{
 			"sound": "anth",
-			"speed": 0.05,
-			"portrait": "anthony",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Now, back to what I was saying..."
+			"speed": 0.01,
+			"portrait": "anthony"
 		},
 		{
-			"sound": "anth",
-			"speed": 0.05,
-			"portrait": "anthony",
+			"expression": "bored",
+			"text": "Yeah.",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "I finally found you! Now, surrender yourself to me or there will be consequences!"
-		},
-		{
 			"sound": "aar",
-			"speed": 0.05,
-			"portrait": "comicaaron",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Nah."
+			"speed": 0.08,
+			"portrait": "dialogueaaron"
 		},
 		{
+			"expression": "talk",
+			"text": "Alright, very well then...",
+			"boxState": "normal",
 			"sound": "anth",
 			"speed": 0.05,
-			"portrait": "anthony",
-			"boxState": "normal",
+			"portrait": "anthony"
+		},
+		{
 			"expression": "talk",
-			"text": "Have it your way then..."
+			"text": "We shall fight.",
+			"boxState": "normal",
+			"sound": "anth",
+			"speed": 0.05,
+			"portrait": "anthony"
+		},
+		{
+			"expression": "happy",
+			"text": "Alright bet-",
+			"boxState": "normal",
+			"sound": "aar",
+			"speed": 0.03,
+			"portrait": "dialogueaaron"
+		},
+		{
+			"expression": "talk",
+			"text": "Via singing.",
+			"boxState": "normal",
+			"sound": "anth",
+			"speed": 0.05,
+			"portrait": "anthony"
+		},
+		{
+			"expression": "angry",
+			"text": "BRUH.",
+			"boxState": "angry",
+			"sound": "aar",
+			"speed": 0.01,
+			"portrait": "dialogueaaron"
 		}
 	]
 }

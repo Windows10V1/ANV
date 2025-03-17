@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Anth Fight.png">
+<SubTexture name="Anth Fight idle0000" x="0" y="0" width="127" height="111" frameX="-10" frameY="-38" frameWidth="200" frameHeight="200" />
+<SubTexture name="Anth Fight idle0001" x="127" y="0" width="127" height="110" frameX="-10" frameY="-39" frameWidth="200" frameHeight="200" />
+<SubTexture name="Anth Fight idle0002" x="0" y="111" width="127" height="110" frameX="-10" frameY="-39" frameWidth="200" frameHeight="200" />
+<SubTexture name="Anth Fight idle0003" x="140" y="221" width="145" height="107" frameX="-10" frameY="-42" frameWidth="200" frameHeight="200" />
+<SubTexture name="Anth Fight idle0004" x="254" y="0" width="141" height="108" frameX="-10" frameY="-41" frameWidth="200" frameHeight="200" />
+<SubTexture name="Anth Fight idle0005" x="254" y="108" width="140" height="108" frameX="-10" frameY="-41" frameWidth="200" frameHeight="200" />
+<SubTexture name="Anth Fight idle0006" x="0" y="221" width="140" height="108" frameX="-10" frameY="-41" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

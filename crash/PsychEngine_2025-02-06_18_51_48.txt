@@ -1,0 +1,17 @@
+C:\HaxeToolkit\haxe\std/haxe/format/JsonParser.hx (line 318)
+C:\HaxeToolkit\haxe\std/haxe/format/JsonParser.hx (line 96)
+C:\HaxeToolkit\haxe\std/haxe/format/JsonParser.hx (line 57)
+StageData.hx (line 91)
+StageData.hx (line 63)
+editors/ChartingState.hx (line 1681)
+flixel/FlxState.hx (line 202)
+flixel/FlxGame.hx (line 747)
+flixel/FlxGame.hx (line 677)
+flixel/FlxGame.hx (line 551)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: Invalid char 34 at position 158
+Please report this error to the GitHub page: https://github.com/ShadowMario/FNF-PsychEngine
+
+> Crash Handler written by: sqirra-rng

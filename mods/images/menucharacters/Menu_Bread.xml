@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Bread.png">
+<SubTexture name="menu_bread idle0000" x="84" y="0" width="44" height="104" frameX="-73" frameY="-41" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_bread idle0001" x="128" y="0" width="44" height="104" frameX="-73" frameY="-41" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_bread idle0002" x="42" y="0" width="42" height="105" frameX="-74" frameY="-40" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_bread idle0003" x="0" y="0" width="42" height="106" frameX="-74" frameY="-39" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_bread idle0004" x="0" y="0" width="42" height="106" frameX="-74" frameY="-39" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_bread idle0005" x="0" y="0" width="42" height="106" frameX="-74" frameY="-39" frameWidth="200" frameHeight="200" />
+<SubTexture name="menu_bread idle0006" x="0" y="0" width="42" height="106" frameX="-74" frameY="-39" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

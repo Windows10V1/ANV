@@ -1,8 +1,8 @@
 
 
 --
-local Intensity = 60; --[[      CHANGE YOUR INTENSITY CAMERA MOVEMENT HERE       ]]
--- default : 60
+local Intensity = 40; --[[      CHANGE YOUR INTENSITY CAMERA MOVEMENT HERE       ]]
+-- default : 40
 
 --[[
 

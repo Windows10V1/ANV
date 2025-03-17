@@ -1,6 +1,6 @@
 {
-	"storyName": "gabriel week",
-	"difficulties": "Easy, Normal, Hard",
+	"storyName": "Vs. Bread",
+	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "overworld",
 	"weekBefore": "tutorial",
@@ -13,29 +13,29 @@
 	"hideStoryMode": false,
 	"songs": [
 		[
-			"pvp",
-			"graybriel",
+			"Locked-In",
+			"bread",
 			[
-				133,
-				133,
-				133
+				102,
+				187,
+				106
 			]
 		],
 		[
-			"hyped",
-			"graybriel",
+			"PvP",
+			"bread",
 			[
-				133,
-				133,
-				133
+				102,
+				187,
+				106
 			]
 		]
 	],
 	"weekCharacters": [
-		"gabriel",
-		"aaron",
-		"madison-speaker"
+		"bread",
+		"ca",
+		""
 	],
 	"hiddenUntilUnlocked": false,
-	"weekName": "Custom Week"
+	"weekName": "Vs. Bread"
 }

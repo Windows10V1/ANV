@@ -1,0 +1,11 @@
+{
+	"idle_anim": "menu_frost idle",
+	"image": "Menu_Frost",
+	"position": [
+		-10,
+		-120
+	],
+	"flipX": false,
+	"scale": 2.5,
+	"confirm_anim": "menu_frost idle"
+}

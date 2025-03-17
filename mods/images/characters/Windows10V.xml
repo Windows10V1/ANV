@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TextureAtlas imagePath="Windows10V.png">
-<SubTexture name="Windows10V Idle0000" x="188" y="129" width="70" height="128" frameX="-53" frameY="-27" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Idle0001" x="259" y="0" width="71" height="128" frameX="-53" frameY="-26" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Idle0002" x="0" y="0" width="71" height="129" frameX="-53" frameY="-24" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Idle0003" x="259" y="128" width="71" height="128" frameX="-53" frameY="-24" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Idle0004" x="259" y="128" width="71" height="128" frameX="-53" frameY="-24" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Idle0005" x="259" y="128" width="71" height="128" frameX="-53" frameY="-24" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Right0000" x="176" y="258" width="119" height="126" frameX="-44" frameY="-26" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Right0001" x="295" y="258" width="119" height="126" frameX="-41" frameY="-26" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Right0002" x="418" y="0" width="119" height="126" frameX="-40" frameY="-26" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Right0003" x="418" y="126" width="119" height="126" frameX="-40" frameY="-26" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Up0000" x="71" y="0" width="94" height="129" frameX="-50" frameY="-11" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Up0001" x="165" y="0" width="94" height="129" frameX="-50" frameY="-14" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Up0002" x="0" y="129" width="94" height="129" frameX="-50" frameY="-15" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Up0003" x="94" y="129" width="94" height="129" frameX="-50" frameY="-15" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Left0000" x="418" y="252" width="89" height="109" frameX="-33" frameY="-28" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Up0000" x="0" y="0" width="94" height="129" frameX="-50" frameY="-11" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Up0001" x="94" y="0" width="94" height="129" frameX="-50" frameY="-14" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Up0002" x="188" y="0" width="94" height="129" frameX="-50" frameY="-15" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Up0003" x="0" y="129" width="94" height="129" frameX="-50" frameY="-15" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Left0000" x="442" y="252" width="89" height="109" frameX="-33" frameY="-28" frameWidth="175" frameHeight="175" />
 <SubTexture name="Windows10V Left0001" x="0" y="386" width="90" height="109" frameX="-36" frameY="-28" frameWidth="175" frameHeight="175" />
 <SubTexture name="Windows10V Left0002" x="90" y="386" width="90" height="109" frameX="-37" frameY="-28" frameWidth="175" frameHeight="175" />
 <SubTexture name="Windows10V Left0003" x="180" y="386" width="90" height="109" frameX="-37" frameY="-28" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Down0000" x="88" y="258" width="88" height="127" frameX="-53" frameY="-28" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Down0001" x="330" y="0" width="88" height="128" frameX="-53" frameY="-25" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Down0002" x="330" y="128" width="88" height="128" frameX="-53" frameY="-24" frameWidth="175" frameHeight="175" />
-<SubTexture name="Windows10V Down0003" x="0" y="258" width="88" height="128" frameX="-53" frameY="-24" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Down0000" x="94" y="129" width="90" height="129" frameX="-53" frameY="-27" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Down0001" x="94" y="129" width="90" height="129" frameX="-53" frameY="-24" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Down0002" x="184" y="129" width="90" height="129" frameX="-53" frameY="-23" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Down0003" x="282" y="0" width="90" height="129" frameX="-53" frameY="-23" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Idle0000" x="372" y="0" width="70" height="128" frameX="-53" frameY="-27" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Idle0001" x="0" y="258" width="71" height="128" frameX="-53" frameY="-26" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Idle0002" x="282" y="129" width="71" height="129" frameX="-53" frameY="-24" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Idle0003" x="71" y="258" width="71" height="128" frameX="-53" frameY="-24" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Idle0004" x="71" y="258" width="71" height="128" frameX="-53" frameY="-24" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Idle0005" x="71" y="258" width="71" height="128" frameX="-53" frameY="-24" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Right0000" x="142" y="258" width="119" height="126" frameX="-44" frameY="-26" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Right0001" x="261" y="258" width="119" height="126" frameX="-41" frameY="-26" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Right0002" x="442" y="0" width="119" height="126" frameX="-40" frameY="-26" frameWidth="175" frameHeight="175" />
+<SubTexture name="Windows10V Right0003" x="442" y="126" width="119" height="126" frameX="-40" frameY="-26" frameWidth="175" frameHeight="175" />
 </TextureAtlas>

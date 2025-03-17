@@ -38,3 +38,25 @@ function onStartCountdown()
 	end
 	return Function_Continue; --Played video and dialogue, now the song can start normally
 end
+
+function onCreatePost()
+   makeLuaText("message", "Song by Comic Aaron (Made in FLM)", 500, 30, 50)
+   setTextAlignment("message", "left")
+   addLuaText("message")
+
+   makeLuaText("engineText", "Villain - Vs. Anthony (PE 0.6.3)", 1000, 30, 100)
+   setTextAlignment("engineText", "left")
+   addLuaText("engineText")
+
+   if getPropertyFromClass('ClientPrefs', 'downScroll') == true then
+       setProperty('message.y', 680)
+       setProperty('engineText.y', 660)
+   end
+end
+
+function onCreate()
+    setPropertyFromClass('GameOverSubstate', 'characterName', 'regularaaron');
+    setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'regularAaronLossSFX');
+    setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'regularAaronLoop');
+    setPropertyFromClass('GameOverSubstate', 'endSoundName', 'regularAaronConfirm');
+end
