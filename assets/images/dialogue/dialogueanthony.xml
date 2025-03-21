@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dialogueanthony.png">
+<SubTexture name="talk0000" x="0" y="0" width="56" height="117" frameX="-72" frameY="-43" frameWidth="200" frameHeight="200" />
+<SubTexture name="talk0001" x="56" y="0" width="56" height="117" frameX="-72" frameY="-43" frameWidth="200" frameHeight="200" />
+<SubTexture name="talk0002" x="112" y="0" width="57" height="117" frameX="-71" frameY="-43" frameWidth="200" frameHeight="200" />
+<SubTexture name="cool0000" x="169" y="0" width="56" height="117" frameX="-72" frameY="-43" frameWidth="200" frameHeight="200" />
+<SubTexture name="cool0001" x="225" y="0" width="56" height="117" frameX="-72" frameY="-43" frameWidth="200" frameHeight="200" />
+<SubTexture name="cool0002" x="0" y="117" width="57" height="117" frameX="-71" frameY="-43" frameWidth="200" frameHeight="200" />
+<SubTexture name="mic0000" x="57" y="117" width="57" height="117" frameX="-72" frameY="-43" frameWidth="200" frameHeight="200" />
+<SubTexture name="mic0001" x="114" y="117" width="58" height="117" frameX="-72" frameY="-43" frameWidth="200" frameHeight="200" />
+<SubTexture name="mic0002" x="172" y="117" width="60" height="117" frameX="-71" frameY="-43" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

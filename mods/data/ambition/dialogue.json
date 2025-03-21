@@ -4,97 +4,97 @@
 			"expression": "angry",
 			"text": "MF WHY DID YOU CRASH INTO ME?!!",
 			"boxState": "angry",
-			"sound": "aar",
+			"portrait": "dialogueaaron",
 			"speed": 0.01,
-			"portrait": "dialogueaaron"
+			"sound": "aar"
 		},
 		{
 			"expression": "talk",
 			"text": "Worth it.",
 			"boxState": "normal",
-			"sound": "anth",
+			"portrait": "anthony",
 			"speed": 0.06,
-			"portrait": "anthony"
+			"sound": "anth"
 		},
 		{
 			"expression": "angry",
 			"text": "Nah you gonna pay now...",
 			"boxState": "normal",
-			"sound": "aar",
+			"portrait": "dialogueaaron",
 			"speed": 0.08,
-			"portrait": "dialogueaaron"
+			"sound": "aar"
 		},
 		{
 			"expression": "talk",
 			"text": "Oh really? Ooo I'm so scar-",
 			"boxState": "normal",
-			"sound": "anth",
+			"portrait": "anthony",
 			"speed": 0.05,
-			"portrait": "anthony"
+			"sound": "anth"
 		},
 		{
 			"expression": "talk",
 			"text": "Yeet.",
 			"boxState": "normal",
-			"sound": "halonoise",
+			"portrait": "normalhalo",
 			"speed": 0.00500000000000001,
-			"portrait": "normalhalo"
+			"sound": "halonoise"
 		},
 		{
 			"expression": "talk",
 			"text": "OW!! WAS THAT A MICROPHONE?!!",
 			"boxState": "angry",
-			"sound": "anth",
+			"portrait": "anthony",
 			"speed": 0.01,
-			"portrait": "anthony"
+			"sound": "anth"
 		},
 		{
 			"expression": "bored",
 			"text": "Yeah.",
 			"boxState": "normal",
-			"sound": "aar",
+			"portrait": "dialogueaaron",
 			"speed": 0.08,
-			"portrait": "dialogueaaron"
+			"sound": "aar"
 		},
 		{
 			"expression": "talk",
 			"text": "Alright, very well then...",
 			"boxState": "normal",
-			"sound": "anth",
+			"portrait": "anthony",
 			"speed": 0.05,
-			"portrait": "anthony"
+			"sound": "anth"
 		},
 		{
 			"expression": "talk",
 			"text": "We shall fight.",
 			"boxState": "normal",
-			"sound": "anth",
+			"portrait": "anthony",
 			"speed": 0.05,
-			"portrait": "anthony"
+			"sound": "anth"
 		},
 		{
 			"expression": "happy",
 			"text": "Alright bet-",
 			"boxState": "normal",
-			"sound": "aar",
+			"portrait": "dialogueaaron",
 			"speed": 0.03,
-			"portrait": "dialogueaaron"
+			"sound": "aar"
 		},
 		{
 			"expression": "talk",
 			"text": "Via singing.",
 			"boxState": "normal",
-			"sound": "anth",
+			"portrait": "anthony",
 			"speed": 0.05,
-			"portrait": "anthony"
+			"sound": "anth"
 		},
 		{
 			"expression": "angry",
 			"text": "BRUH.",
 			"boxState": "angry",
-			"sound": "aar",
+			"portrait": "dialogueaaron",
 			"speed": 0.01,
-			"portrait": "dialogueaaron"
+			"sound": "aar"
 		}
 	]
 }

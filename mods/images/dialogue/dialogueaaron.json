@@ -1,103 +1,103 @@
 {
+	"dialogue_pos": "right",
 	"position": [
 		350,
 		150
 	],
-	"dialogue_pos": "right",
 	"no_antialiasing": true,
 	"scale": 4.2,
-	"image": "dialogueaaron",
 	"animations": [
 		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
 			"idle_offsets": [
 				0,
 				0
 			],
-			"loop_offsets": [
-				0,
-				0
-			],
-			"anim": "talk",
-			"idle_name": "talk0002",
-			"loop_name": "talk"
+			"loop_name": "talk",
+			"idle_name": "talk0002"
 		},
 		{
-			"loop_offsets": [
+			"idle_offsets": [
 				0,
 				0
 			],
 			"anim": "bored",
-			"idle_offsets": [
+			"loop_offsets": [
 				0,
 				0
 			],
-			"loop_name": "bored",
-			"idle_name": "bored0002"
+			"idle_name": "bored0002",
+			"loop_name": "bored"
 		},
 		{
-			"loop_offsets": [
+			"idle_offsets": [
 				0,
 				0
 			],
 			"anim": "happy",
-			"idle_offsets": [
+			"loop_offsets": [
 				0,
-				0
+				1
 			],
-			"loop_name": "happy",
-			"idle_name": "happy0002"
+			"idle_name": "happy0002",
+			"loop_name": "happy"
 		},
 		{
-			"loop_offsets": [
+			"idle_offsets": [
 				0,
 				0
 			],
 			"anim": "confused",
-			"idle_offsets": [
+			"loop_offsets": [
 				0,
 				0
 			],
-			"loop_name": "confused",
-			"idle_name": "confused0002"
+			"idle_name": "confused0002",
+			"loop_name": "confused"
 		},
 		{
-			"loop_offsets": [
+			"idle_offsets": [
 				0,
 				0
 			],
 			"anim": "angry",
-			"idle_offsets": [
+			"loop_offsets": [
 				0,
 				0
 			],
-			"loop_name": "angru",
-			"idle_name": "angry0002"
+			"idle_name": "angry0002",
+			"loop_name": "angry"
 		},
 		{
-			"loop_offsets": [
+			"idle_offsets": [
 				0,
 				0
 			],
 			"anim": "gasp",
-			"idle_offsets": [
-				0,
-				0
-			],
-			"loop_name": "gasp",
-			"idle_name": "gasp0002"
-		},
-		{
 			"loop_offsets": [
 				0,
 				0
 			],
-			"anim": "devious",
+			"idle_name": "gasp0002",
+			"loop_name": "gasp"
+		},
+		{
 			"idle_offsets": [
 				0,
 				0
 			],
-			"loop_name": "devious",
-			"idle_name": "devious0002"
+			"anim": "devious",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "devious0002",
+			"loop_name": "devious"
 		}
-	]
+	],
+	"image": "dialogueaaron"
 }
